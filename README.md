@@ -3,6 +3,7 @@
 
 ![Introduction GIF](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*yw0TnheAGN-LPneDaTlaxw.gif)
 
+
 ## Objective
 
 Dedicated and results-oriented Full Stack Developer with a solid foundation in React.js, React Native, Node.js, and MongoDB. Seeking a challenging position to leverage my expertise in crafting innovative and efficient web and mobile solutions. Eager to contribute my skills in a collaborative team environment, driving technological advancements and delivering high-impact results for dynamic projects.
@@ -41,3 +42,5 @@ Developed and maintained a customizable date and time range input picker compone
 
 - [React Date Time Range Input Picker on npmjs](https://www.npmjs.com/package/react-datetimerangeinput)
 - Actively addressed issues, implemented feature requests, and provided support to users.
+
+![Introduction GIF][https://miro.medium.com/v2/resize:fit:1400/format:webp/1*yw0TnheAGN-LPneDaTlaxw.gif](https://imarticus.org/blog/wp-content/uploads/2021/12/djbwgfw.gif)
