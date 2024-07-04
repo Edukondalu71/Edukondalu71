@@ -1,12 +1,14 @@
 <h1 align="center">Hi 👋, I'm @Edukondalu</h1>
 
-##  8639228178 | d.edukondalu3379@gmail.com
 
 ![Introduction GIF](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*yw0TnheAGN-LPneDaTlaxw.gif)
 
 ## Objective
 
 Dedicated and results-oriented Full Stack Developer with a solid foundation in React.js, React Native, Node.js, and MongoDB. Seeking a challenging position to leverage my expertise in crafting innovative and efficient web and mobile solutions. Eager to contribute my skills in a collaborative team environment, driving technological advancements and delivering high-impact results for dynamic projects.
+
+##  contact me 
+8639228178 | d.edukondalu3379@gmail.com
 
 ## Experience
 
