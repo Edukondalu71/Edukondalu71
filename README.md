@@ -43,4 +43,4 @@ Developed and maintained a customizable date and time range input picker compone
 - [React Date Time Range Input Picker on npmjs](https://www.npmjs.com/package/react-datetimerangeinput)
 - Actively addressed issues, implemented feature requests, and provided support to users.
 
-![Introduction GIF][https://miro.medium.com/v2/resize:fit:1400/format:webp/1*yw0TnheAGN-LPneDaTlaxw.gif](https://imarticus.org/blog/wp-content/uploads/2021/12/djbwgfw.gif)
+![Introduction GIF](https://imarticus.org/blog/wp-content/uploads/2021/12/djbwgfw.gif)
