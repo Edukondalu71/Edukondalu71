@@ -3,6 +3,7 @@
 # Edukondalu - Full Stack Developer
 
 Bhimavaram, AP | 8639228178 | d.edukondalu3379@gmail.com
+![Introduction GIF](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*yw0TnheAGN-LPneDaTlaxw.gif)
 
 ## Objective
 
